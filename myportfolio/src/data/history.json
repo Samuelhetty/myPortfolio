@@ -1,0 +1,30 @@
+ [
+    {
+    "role": "SWE Intern",
+    "organisation": "Alx-Africa",
+    "startDate": "Feb, 2023",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Gained hands-on experiences in the tech industry",
+      "Acquired skills for both frontend and backend development",
+      "Implemented a simple file management API that allows users to upload, share, retrieve informations and download files",
+      "Engineered a compresive online sportshub enabling seamless workout searches, user authentication, BMI and calories burned calculation",
+      "Developed an online bookhub that provides a platform for users to engage in reading, sharing knowledge, upload and download their favourite books"
+    ],
+    "imageSrc": "history/alx.png"
+  },
+
+  {
+    "role": "SWE Intern",
+    "organisation": "DevCareer",
+    "startDate": "Dec, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on various projects, enhancing skills in software development",
+      "Designed API's using Nodejs",
+      "Collaborated and learned from experienced professionals in the field"
+    ],
+    "imageSrc": "history/dev.png"
+  }
+
+]

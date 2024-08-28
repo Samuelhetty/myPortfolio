@@ -1,0 +1,18 @@
+[
+    {
+      "title": "ActiveMe",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Html", "CSS", "JavaScript", "Expressjs", "Nodejs", "MySQl"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "MoreReaders",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Sass", "JavaScript", "Flask", "Python", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
