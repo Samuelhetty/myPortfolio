@@ -1,18 +1,18 @@
 [
     {
       "title": "ActiveMe",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "imageSrc": "project/activeme.jpg",
+      "description": "ActiveMe is a fitness Website designed for individuals to conveniently workout from home.",
       "skills": ["Html", "CSS", "JavaScript", "Expressjs", "Nodejs", "MySQl"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://www.canva.com/design/DAGCa5cC4Ec/UV_Ke4W_fhySAe3K7tgjRQ/watch?utm_content=DAGCa5cC4Ec&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "source": "https://www.github.com/Samuelhetty/ActiveMe"
     },
     {
       "title": "MoreReaders",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "imageSrc": "project/morereaders1.jpg",
+      "description": "MoreReader is an online interactive book website for book lovers to connect and share their favorite reads.",
       "skills": ["React", "Sass", "JavaScript", "Flask", "Python", "MongoDB"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://drive.google.com/file/d/1idfTs8jZ6bJb2sv-LrWwfk-sy8BkLVcX/view?usp=sharing",
+      "source": "https://www.github.com/Hovixen/MoreReaders"
     }
   ]

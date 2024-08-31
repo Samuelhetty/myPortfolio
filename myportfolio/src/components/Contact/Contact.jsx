@@ -10,8 +10,8 @@ export const Contact = () => {
                 <h2>Contact</h2>
                 <p>Have a project in mind?</p>
                 <p>Let's build something together!</p> <br></br>
-                <a href="mailto:hetty8004@gmail.com" className={styles.contactBtn}>
-                   Contact Me
+                <a href="https://docs.google.com/document/d/1GiTdI_cPU8cqUztUw5xNmdnUfy9YpSPRM9BfQ-1JJAw" className={styles.contactBtn}>
+                   Download CV
                 </a>
             </div>
             <ul className={styles.links}>
